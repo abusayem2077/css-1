@@ -1,0 +1,44 @@
+.background1{
+	background-color: plum;
+}
+.size{
+	font-size: 50px;
+	color:seagreen;
+}
+.nodecoration{
+	text-decoration: none;
+}
+.background2{
+	background-color: darkgray;
+}
+.font{
+	font-size: 80px;
+	font-weight: bold;
+}
+.wrapper{
+	overflow: hidden;
+}
+.img0{
+	float: left;
+	width: 50%;
+}
+.p1{
+	float: right;
+	width: 50%;
+}
+.size1{
+	font-weight: bold;
+	border: none;
+	font-size: 30px;
+}
+.p2{
+	font-weight: bold;
+	font-size: 75px;
+}
+.wrapper2{
+	overflow: hidden;
+}
+.img{
+	float: left;
+	width: 33.33%;
+}
